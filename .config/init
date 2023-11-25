@@ -1,0 +1,17 @@
+#!/bin/zsh
+#
+# FileName:     init
+# Author:       8ucchiman
+# CreatedDate:  2023-11-25 12時53分19秒
+# LastModified: 2023-01-23 14:11:45 +0900
+# Reference:    8ucchiman.jp
+# Description:  ---
+#
+
+
+if [[ -e Brun ]]; then
+    ln -sf $HOME/.config/pockets/shell/Brun Brun
+fi
+if [[ -e local ]]; then
+    cp $HOME/.config/pockets/shell/local local
+fi
