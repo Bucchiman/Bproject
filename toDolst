@@ -1,2 +1,15 @@
-- hello world
-    - gehogeho
+- // title
+    - motivation:
+    - goal:
+    - description
+        - [] In a popup ...
+            - buffers
+                - tips.*
+                - Bmods.*
+        - [] When you ...
+        - [] Based on ...
+        - [] (future) enable colorscheme ...
+    - Note
+        - [] Some files ...
+
+
